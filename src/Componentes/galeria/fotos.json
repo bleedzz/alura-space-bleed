@@ -1,0 +1,84 @@
+
+[
+        {
+          "titulo": "Pato",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-1.png",
+          "favorito":false,
+          "id": "1",
+          "tag": "Galáxias"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-2.png",
+          "favorito":false,
+          "id": "2",
+          "tag": "Estrelas"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-3.png",
+          "favorito":false,
+          "id": "3",
+          "tag": "Lua"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-4.png",
+         " favorito":false,
+          "id": "4",
+          "tag": "Galáxias"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-5.png",
+          "favorito":false,
+          "id": "5",
+          "tag": "Estrelas"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-6.png",
+          "favorito":false,
+          "id": "6",
+          "tag": "Nebulosas"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-7.png",
+          "favorito":false,
+          "id": "7",
+          "tag": "Galáxias"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-8.png",
+          "favorito":false,
+          "id": "8",
+          "tag": "Nebulosas"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-9.png",
+          "favorito":false,
+          "id": "9",
+          "tag": "Estrelas"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "assets/Imagens-Galeria/foto-10.png",
+          "favorito":false,
+          "id": "10",
+          "tag": "Estrelas"
+        }
+      ]
+      
