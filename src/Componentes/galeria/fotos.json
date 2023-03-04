@@ -1,7 +1,7 @@
 
 [
         {
-          "titulo": "Pato",
+          "titulo": "Galáxia 1",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-1.png",
           "favorito":false,
@@ -9,7 +9,7 @@
           "tag": "Galáxias"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Estrela 1",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-2.png",
           "favorito":false,
@@ -17,7 +17,7 @@
           "tag": "Estrelas"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Lua",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-3.png",
           "favorito":false,
@@ -25,7 +25,7 @@
           "tag": "Lua"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Galáxia 2",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-4.png",
          " favorito":false,
@@ -33,7 +33,7 @@
           "tag": "Galáxias"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Estrela 2",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-5.png",
           "favorito":false,
@@ -41,7 +41,7 @@
           "tag": "Estrelas"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Nebulosa 1",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-6.png",
           "favorito":false,
@@ -49,7 +49,7 @@
           "tag": "Nebulosas"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Galáxia 3",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-7.png",
           "favorito":false,
@@ -57,7 +57,7 @@
           "tag": "Galáxias"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Nebulosa 2",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-8.png",
           "favorito":false,
@@ -65,7 +65,7 @@
           "tag": "Nebulosas"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Estrela 3",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-9.png",
           "favorito":false,
@@ -73,7 +73,7 @@
           "tag": "Estrelas"
         },
         {
-          "titulo": "Nome da Foto",
+          "titulo": "Estrela 4",
           "creditos": "Alura Space",
           "imagem": "assets/Imagens-Galeria/foto-10.png",
           "favorito":false,
